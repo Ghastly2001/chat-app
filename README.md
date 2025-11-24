@@ -59,3 +59,5 @@ Supports **1:1 chat**, **group chat**, **media sharing**, **typing indicators**,
 ```bash
 git clone https://github.com/your-username/chat-app.git
 cd chat-app
+npm install
+npm run dev
